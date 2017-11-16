@@ -8,3 +8,4 @@
 - [Quiz 4: Using Attributes](index_attributes.html)
 - [Quiz 5: Slack Card](slack.html)
 - [Quiz 6: Udacity Site header](udacity.html)
+- [Quiz 7: Link Stylesheet](link-to-a-stylesheet/index.html)
