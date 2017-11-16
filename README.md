@@ -7,6 +7,9 @@
 
 > *__Udacity Quote__*
 
+[View Nanodegree on Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+
 ## Overview:
 
-1. [Programming Foundations with Python](programming_foundation/README.md)
+1. [Programming Foundations with Python](programming_foundation/README.md) (6 weeks | 3 days)
+2. [HTML and CSS Syntax](html_and_css_syntax/README.md) (3 weeks | )
