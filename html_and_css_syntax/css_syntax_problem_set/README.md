@@ -2,6 +2,8 @@
 
 [__<= GO BACK__](../README.md)
 
+Lesson Quiz list:
+
 - [Quiz 1: Styling Images](index_image.html)
 - [Quiz 2: Styling Text](index_text.html)
 - [Quiz 3: Writing Selectors](writing-selectors/index.html)
