@@ -12,7 +12,8 @@
 
 1. [Programming Foundations with Python](programming_foundation/README.md) (6 weeks | 3 days)
 2. [HTML and CSS Syntax](html_and_css_syntax/README.md) (3 weeks | 1 day)
-3. [Responsive Web Design Fundamentals](responsive_web_design_fundamentals/README.md) (2 weeks | )
+3. [Responsive Web Design Fundamentals](responsive_web_design_fundamentals/README.md) (2 weeks | 3 days)
+4. [Responsive Images](responsive_images/README.md) (2 weeks | )
 
 
 ## Why Take This Nanodegree Program?
