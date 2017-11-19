@@ -5,6 +5,9 @@
 1. [Why Responsive ?](why_responsive/README.md)
 2. [Starting Small](start_small/README.md)
 3. [Building Up](build_up/README.md)
+4. [Common Responsive Patterns](common_responsive_patterns/README.md)
+5. [Optimizations](optimizations/README.md)
+
 
 > In this course you'll learn the fundamentals of responsive web design with Google's Pete LePage! You'll create your own responsive web page that works well on any device - phone, tablet, desktop or anything in between.
 

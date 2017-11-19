@@ -2,7 +2,9 @@
 
 [__<= GO BACK__](../README.md)
 
-## [Lesson Project: Redesign Website](Start/index.html)
+- [Quiz 1: Redesign Website](Start/index.html)
+
+## Course Notes:
 
 When designed responsive web sites it is important to understand the difference between hardware pixels and the Device Pixel Ratio
 
