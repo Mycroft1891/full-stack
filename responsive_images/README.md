@@ -4,7 +4,13 @@
 
 1. [Getting up and Running](up-and-running/README.md)
 2. [Units, Formats, Environments](units_formats_environments/README.md)
+3. [Images with Markup](images_with_markup/README.md)
+4. [Full Responsiveness](full_responsiveness/README.md)
 
+
+PS: For a practical implementation of these concepts, attributes and options, take a look at the course HTML:
+
+[__Final Project__](units_formats_environments/project/index.html)
 
 > Did you know that images account for more than 60% of the bytes on average needed to load a web page?
 
