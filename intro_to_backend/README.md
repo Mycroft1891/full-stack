@@ -3,6 +3,8 @@
 [__<= GO BACK__](../README.md)
 
 1. [How to Web Works](how_the_web_works/README.md)
+2. [Introduction: Install Python & GCloud]
+3. [Forms and Inputs](forms_and_inputs/README.md)
 
 > This course is a selection of material from our larger Web Development course.
 
